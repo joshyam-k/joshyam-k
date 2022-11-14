@@ -1,4 +1,4 @@
-🌱 Josh (he/him) studying at Reed College
+🌱 Josh (he/him) studying mathematics/statistics at Reed College
 <!--
 **joshyam-k/joshyam-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
