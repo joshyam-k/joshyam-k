@@ -1,4 +1,4 @@
-🌱 I'm Josh and I'm studying mathematics/statistics at Reed College
+🌱 I'm Josh and I'm a writing statisical software developer!
 <!--
 **joshyam-k/joshyam-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
