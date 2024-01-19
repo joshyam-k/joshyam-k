@@ -1,4 +1,4 @@
-🌱 I'm Josh, a statisical software developer!
+I'm Josh, a statisical software developer!
 
 Most of my current work is in the development and maintenance of the following R packages:
 - [USDAForestService/FIESTA](https://github.com/USDAForestService/FIESTA): Forest Inventory Estimation and Analysis
