@@ -1,7 +1,4 @@
-Most of my current work is in the development and maintenance of the following R packages:
-- [USDAForestService/FIESTA](https://github.com/USDAForestService/FIESTA): Forest Inventory Estimation and Analysis
-- [mcconvil/mase](https://github.com/mcconvil/mase) Model Assisted Survey Estimation
-- [harvard-ufds/saeczi](https://github.com/harvard-ufds/saeczi) Small Area Estimation via a Two-Stage Model for Continuous Zero Inflated Data
+Working on Posit Connect
 <!--
 **joshyam-k/joshyam-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
